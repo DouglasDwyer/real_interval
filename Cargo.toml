@@ -1,0 +1,12 @@
+[package]
+name = "real_interval"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/DouglasDwyer/real_interval"
+readme = "README.md"
+description = """
+Continuous interval arithmetic library.
+"""
+
+[dependencies]
